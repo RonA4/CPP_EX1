@@ -1,5 +1,5 @@
 
-# C++ Graph Algorithms Project
+# C++ Graph Algorithms Project, First assignment in Systems Programming 2.
 
 ## Overview
 
